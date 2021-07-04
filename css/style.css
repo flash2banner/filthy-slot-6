@@ -45,7 +45,7 @@ a {
   width: 100%;
   background-size: 100%;
   background-image: url(../img/desktop-bg.jpg);
-  background-attachment: fixed;
+  background-attachment: scroll;
   background-position: 50% 0;
   background-repeat: no-repeat; 
   background-size: auto auto;
