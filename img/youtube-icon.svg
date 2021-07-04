@@ -1,0 +1,23 @@
+<svg width="99" height="99" viewBox="0 0 99 99" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g clip-path="url(#clip0)">
+<rect x="0.502563" y="0.356018" width="97.9949" height="97.4666" fill="url(#pattern0)"/>
+<rect x="12.2617" y="17.7159" width="73.2907" height="64.0965" fill="url(#pattern1)"/>
+<path d="M66.1671 71.6478C55.1911 79.7811 39.6254 78.8743 29.6786 68.9219C18.7303 57.9737 18.7303 40.2162 29.6786 29.2679C40.6268 18.3197 58.3787 18.3197 69.3325 29.2679C80.2808 40.2162 80.2808 57.9681 69.3325 68.9163" stroke="#FF1A1A" stroke-width="2.9822" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M64.5427 45.5957C64.5427 41.7627 62.0504 38.9199 58.2174 38.9199H40.7325C36.8995 38.9199 32.8329 41.7627 32.8329 45.5957V53.5732C32.8329 57.4062 36.8995 60.6161 40.7325 60.6161H58.2174C62.0504 60.6161 64.5427 57.4062 64.5427 53.5732V45.5957ZM54.9129 50.8918L46.7018 54.8249C46.3902 54.9918 45.0718 54.7693 45.0718 54.4132V46.33C45.0718 45.974 46.3958 45.7459 46.7073 45.9239L54.4512 50.0684C54.7738 50.2576 55.2356 50.7193 54.9129 50.8918Z" stroke="#FF1A1A" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M66.1671 71.6478C55.1911 79.7811 39.6254 78.8743 29.6786 68.9219C18.7303 57.9737 18.7303 40.2162 29.6786 29.2679C40.6268 18.3197 58.3787 18.3197 69.3325 29.2679C80.2808 40.2162 80.2808 57.9681 69.3325 68.9163" stroke="#FF8888" stroke-width="1.1716" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M64.8208 45.5957C64.8208 41.7627 62.0504 38.6418 58.2174 38.6418H40.7325C36.8995 38.6418 32.5547 41.7627 32.5547 45.5957V53.5732C32.5547 57.4062 36.8995 60.8943 40.7325 60.8943H58.2174C62.0504 60.8943 64.8208 57.4062 64.8208 53.5732V45.5957ZM54.9129 50.8918L46.8408 54.8249C46.5293 54.9918 45.3499 54.7693 45.3499 54.4132V46.33C45.3499 45.974 46.5348 45.7459 46.8464 45.9239L54.5235 50.0684C54.8461 50.2576 55.2355 50.7193 54.9129 50.8918Z" stroke="#FF8888" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0"/>
+</pattern>
+<pattern id="pattern1" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1"/>
+</pattern>
+<clipPath id="clip0">
+<rect width="98" height="98" fill="white" transform="translate(0.5 0.411987)"/>
+</clipPath>
+<image id="image0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAukAAALlCAYAAAB5BnhwAAAACXBIWXMAAC6ZAAAumQHd3klXAAAA"/>
+<image id="image1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAi8AAAHwCAYAAABuVI8jAAAACXBIWXMAAC7nAAAu5wFdSnGeAAAA"/>
+</defs>
+</svg>
